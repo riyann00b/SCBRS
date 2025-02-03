@@ -3,7 +3,9 @@
 
 # Selenium CAPTCHA Bypass Results Scraper 🚀
 
-![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazE2aGJybnJzdnN6dXIzbjJmdWF5MDl2bWFuc2ZxZm05ZjFwbmExNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CILGGl6sizxVC/giphy.gif)
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazE2aGJybnJzdnN6dXIzbjJmdWF5MDl2bWFuc2ZxZm05ZjFwbmExNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CILGGl6sizxVC/giphy.gif" width="600">
+</div>
 
 Welcome to the **Selenium CAPTCHA Bypass Results Scraper**! This repository contains a Python project that uses [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) and [selenium-stealth](https://github.com/diprajpatra/selenium-stealth) to scrape Google search results while minimizing detection. If a CAPTCHA appears, the script pauses so you can solve it manually — a completely free solution! 🙌
 
