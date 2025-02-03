@@ -1,0 +1,24 @@
+Result 1:
+Title: How to handle Captcha in Selenium
+--------------------------------------------------
+Result 2:
+Title: How To Handle Captcha In Selenium
+--------------------------------------------------
+Result 3:
+Title: Captchas
+--------------------------------------------------
+Result 4:
+Title: How can I bypass the Google CAPTCHA with Selenium ...
+--------------------------------------------------
+Result 5:
+Title: 3 cool tricks to Automate Captcha In Selenium
+--------------------------------------------------
+Result 6:
+Title: Captcha bypass in Selenium
+--------------------------------------------------
+Result 7:
+Title: CAPTCHA with Selenium in C#: A Step-by-Step Guide
+--------------------------------------------------
+Result 8:
+Title: What is the best strategy to handle the captcha in selenium ...
+--------------------------------------------------

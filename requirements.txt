@@ -1,0 +1,23 @@
+attrs @ file:///croot/attrs_1734533101012/work
+Brotli @ file:///croot/brotli-split_1736182456865/work
+certifi @ file:///croot/certifi_1734473278428/work/certifi
+charset-normalizer==3.4.1
+h11 @ file:///croot/h11_1706652277403/work
+idna @ file:///croot/idna_1714398848350/work
+outcome @ file:///tmp/build/80754af9/outcome_1609338780791/work
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1698845478203/work
+requests==2.32.3
+selenium @ file:///croot/selenium_1727169276076/work
+selenium-stealth==1.0.6
+setuptools==75.8.0
+sniffio @ file:///croot/sniffio_1705431295498/work
+sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
+trio @ file:///croot/trio_1729106625938/work
+trio-websocket @ file:///croot/trio-websocket_1726669432198/work
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+undetected-chromedriver==3.5.5
+urllib3 @ file:///croot/urllib3_1737133630106/work
+websocket-client @ file:///croot/websocket-client_1715878298792/work
+websockets==14.2
+wheel==0.45.1
+wsproto @ file:///croot/wsproto_1725051532745/work
